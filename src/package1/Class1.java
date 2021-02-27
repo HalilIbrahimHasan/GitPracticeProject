@@ -7,5 +7,6 @@ public class Class1 {
 		int numberOfStudents = 71; 
 		double num = 34.5;
 		//here my changes
+		//Today we have seen new commands on Git and GitHub
 	}
 }
